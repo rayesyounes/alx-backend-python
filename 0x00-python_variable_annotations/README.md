@@ -1,5 +1,5 @@
 # Project: 0x00. Python - Variable Annotations
-![y9y25tefi5401.png](..%2F..%2F..%2F..%2FSPOUTN%7E1%2FAppData%2FLocal%2FTemp%2Fy9y25tefi5401.png)
+![y9y25tefi5401.png](https://i.redd.it/y9y25tefi5401.png)
 ## Resources
 
 #### Read or watch:
